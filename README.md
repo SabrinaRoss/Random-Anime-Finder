@@ -1,7 +1,7 @@
 # Random-Anime-Finder
 Randomly picks an anime based on selected genres.
 
-#### This is a simple Python script I made for my roomates and I's anime bingo nights.
+#### This is a simple Python script made for my roomates and I's anime bingo nights.
 
 This script is decided based on genres and/or themes. It pulls from the MyAnimeList API and filters the results based on what you want (and don’t want) to watch. 
 It also caches results so you're not requesting the API every time, if you want shows from a genre you have already requested shows from.
